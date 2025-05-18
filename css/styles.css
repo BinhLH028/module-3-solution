@@ -3,8 +3,6 @@ body {
     font-family: cursive;
 }
 
-
-
 .navbar-default,
 .navbar-toggle {
     background-color: #ADADAD !important;
@@ -25,7 +23,6 @@ a:hover.myb-1 {
 .mymenu li a {
     color: #000 !important;
 }
-/** HEADER **/
 
 #header-nav {
     background-color: #969696;
@@ -36,8 +33,6 @@ a:hover.myb-1 {
 #header-nav button {
     margin-top: 100px;
 }
-
-
 
 .navbar-collapse {
     border-top: 0;
@@ -56,8 +51,6 @@ a:hover.myb-1 {
     font-size: 1.8em;
 }
 
-
-
 #nav-list {
     background-color: #ffffff;
 }
@@ -69,7 +62,7 @@ a:hover.myb-1 {
     font-family: cursive;
 }
 
-#main-content {
+#content {
     width: 92%;
     margin-bottom: 30px;
 }
@@ -87,7 +80,7 @@ a:hover.myb-1 {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+.title {
     width: 100%;
     padding: 20px;
     background-color: #969696;
